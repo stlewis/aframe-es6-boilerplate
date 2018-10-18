@@ -42,8 +42,9 @@ reference in `index.html`.
 
 The `package.json` file is locking the A-Frame version to 0.8.2, which is the
 latest stable release as of this writing. To update to a different stable
-version, just update the pin. If you'd prefer to work from `master` instead,
-just replace this line:
+version, just update the pin. You'll need to rebuild afterwards to make sure
+that the bundled javascript has the latest. If you'd prefer to work from
+`master` instead, just replace this line:
 
 ```json
 "aframe": "^0.8.2"

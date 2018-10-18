@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "live-server -p 8080",
+    "start": "live-server --port 8080",
     "deploy": "ghpages",
     "build": "browserify index.js -o build/bundle.js -t [ babelify --presets [ @babel/preset-env ] ]",
     "release": "browserify index.js -t [ babelify --presets [ @babel/preset-env ] ] | uglifyjs > build/bundle.min.js"

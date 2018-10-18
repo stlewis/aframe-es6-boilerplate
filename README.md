@@ -9,9 +9,6 @@ Built with [A-Frame](https://aframe.io).
 This is just my personal AFrame starter template with some basic build steps
 included.
 
-The initial setup includes blank `bundle.js` file in the `build` directory.
-This is just so that `index.html` has something to link to.
-
 ## Setup
 
 ```sh

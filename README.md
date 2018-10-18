@@ -16,8 +16,8 @@ This is just so that `index.html` has something to link to.
 
 ```sh
 npm install
-npm run start ```
-
+npm run start
+```
 
 ## Building and Releasing
 

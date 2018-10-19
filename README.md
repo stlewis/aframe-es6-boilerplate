@@ -16,6 +16,12 @@ npm install
 npm run start
 ```
 
+## Developing
+
+While you're actively working on code, you may want to run the `watch` command.
+This will continuously rebuild your bundle for you as you make changes. Note
+that this must be run _in addition to_, not instead of, `run`.
+
 ## Building and Releasing
 
 Put your JS source files into the `src` directory however you would like, just

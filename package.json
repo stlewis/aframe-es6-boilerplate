@@ -1,6 +1,6 @@
 {
-  "name": "aframe-point-n-click",
-  "description": "A-Frame Point N Click Library",
+  "name": "aframe-es6-boilerplate",
+  "description": "A-Frame ES6 Boilerplate Project",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -30,6 +30,6 @@
     "vr"
   ],
   "dependencies": {
-    "aframe": "^0.9.2"
+    "aframe": "^1.0.2"
   }
 }
